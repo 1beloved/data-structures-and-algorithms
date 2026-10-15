@@ -1,6 +1,6 @@
 # 数据结构与算法
 
-用 **[C / C++ / Java / Python，改成你实际用的语言]** 实现常见的数据结构与算法，用于巩固课程内容和日常练习。
+用 **[C / C++]** 实现常见的数据结构与算法，用于巩固课程内容和日常练习。
 
 ## 内容
 
@@ -10,19 +10,17 @@
 - 图：遍历（BFS / DFS）、最短路径
 - 查找与排序算法
 
-> 以上按你仓库里实际有的内容修改，没有的就删掉。
 
 
 
 ## 运行方式
 
 ```bash
-git clone https://github.com/1beloved/[仓库名].git
+git clone https://github.com/1beloved/data-structures-and-algorithms.git
 cd [仓库名]
 
 # 编译并运行（按你的语言修改）
 # C：      gcc 文件名.c -o 程序名 && ./程序名
-# Python： python3 文件名.py
 ```
 
 ## 说明
